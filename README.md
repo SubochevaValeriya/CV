@@ -9,60 +9,6 @@ Now I try to develop in the chosen direction: courses, books, articles, pet-proj
 My past work experience has helped me develop the skills to learn quickly, work under tight deadlines, work in a team, find and fix bugs and help to improve my level of English. My daily programming training opens up something new for me every day, whether it's experience with various tools, libraries, the basics of building applications or approaches to writing code. I hope I can apply my hard and soft skills while working in a team on real tasks.
 <br/>
 
-# 🎓 My pet-projects
-
-
-
-# 💼 Work experience
-## UniCredit Bank
-> (one of the top 10 largest banks in Russia, part of international UniCredit Group)
-
-**July 2019 — Sep 2022 (3 years 3 months)**
-
-Financial planning and controlling *(not a developer, but I think it's still worth pointing out)*
-
-🚩 preparation of the budget, multi-year plan, forecast for the entire bank (on the highest level);
-
-🚩 interaction with a different divisions (including foreign colleagues from the Banking Group), organization of processes within the established deadlines;
-
-🚩 support of the budgeting system Hyperion, development and implementation of changes that speed up work and improve data quality.
-
-# 🎓 Alumni 
-
-
-
-
-# 💻 Additional Training
-
-
-
-
-
-# 📜 Certificates
-
-
-
-
-# 🎓 Alumni 
-## [Financial University under the Government of the Russian Federation](http://www.fa.ru/)
-
-> September 2015 — June 2019 (4 years)
-
-Faculty of Financial Markets
-
-> September 2019 — June 2021 (2 years)
-
-Faculty of Information Technology and Big Data Analysis
-
-
-# 📝 Soft skills
-
-- Team player & ability to work alone: at my last job there was a big dependence on the work of the team, but at the same time, I often had to perform quite large tasks on my own;
-- Learnability: I quickly perceive information, and I can also find answers in the documentation myself
-- Emotional resilience: I have a lot of experience working under tight deadlines and long discussions with colleagues
-- My English is B2, I can read professional literature and watch tutorials 
-- Responsibility, accuracy, attention to details and great desire to expand the scope of my knowledge :)
-
 # ⚙️ Technology Stack
 
 **Languages:**
@@ -92,3 +38,62 @@ Faculty of Information Technology and Big Data Analysis
       ![Windows](https://img.shields.io/badge/-Windows-333333?style=flat&logo=Windows)
       ![Linux](https://img.shields.io/badge/-Linux-333333?style=flat&logo=Linux)
       ![Mac](https://img.shields.io/badge/-Mac-333333?style=flat&logo=Mac)
+
+
+# 🎓 My pet-projects
+
+
+
+# 💼 Work experience
+## UniCredit Bank
+> (one of the top 10 largest banks in Russia, part of international UniCredit Group)
+
+**July 2019 — Sep 2022 (3 years 3 months)**
+
+Financial planning and controlling *(not a developer, but I think it's still worth pointing out)*
+
+🚩 preparation of the budget, multi-year plan, forecast for the entire bank (on the highest level);
+
+🚩 interaction with a different divisions (including foreign colleagues from the Banking Group), organization of processes within the established deadlines;
+
+🚩 support of the budgeting system Hyperion, development and implementation of changes that speed up work and improve data quality.
+
+# 🎓 Alumni 
+## [Financial University under the Government of the Russian Federation](http://www.fa.ru/)
+
+> September 2019 — June 2021 (2 years)
+
+Faculty of Information Technology and Big Data Analysis
+
+> September 2015 — June 2019 (4 years)
+
+Faculty of Financial Markets
+
+# 💻 Additional Training
+
+[GeekBrains](https://geekbrains.ru/)
+
+**Golang Developer** (training)
+
+> April 2022 — Until now
+
+Decided to go for the Golang Backend Developer training courses to boost up my skills and structure my knowledge without forgetting about self-education.
+
+# 📜 Certificates
+
+**[Stepik. Программирование на Golang](https://stepik.org/cert/1577568)**
+
+> Issued July 2022 | No Expiration Date
+
+**[Stepik. Программирование на Python](https://stepik.org/cert/773220)**
+
+> Issued September 2020 | No Expiration Date
+
+# 📝 Soft skills
+
+- Team player & ability to work alone: at my last job there was a big dependence on the work of the team, but at the same time, I often had to perform quite large tasks on my own;
+- Learnability: I quickly perceive information, and I can also find answers in the documentation myself
+- Emotional resilience: I have a lot of experience working under tight deadlines and long discussions with colleagues
+- My English is B2, I can read professional literature and watch tutorials 
+- Responsibility, accuracy, attention to details and great desire to expand the scope of my knowledge :)
+
