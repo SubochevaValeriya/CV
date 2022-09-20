@@ -46,7 +46,7 @@ My past working experience has helped me develop the skills to learn quickly, wo
 
 ## [HTTP Service, which provides API for working with user balances](https://github.com/SubochevaValeriya/Microservice-Balance)
 
-🚩 Postgres (CRUD, file migrations)
+🚩 Postgres (CRUD, file migrations, SQL queries)
 
 🚩 REST API principles (dependency injections and so on)
 
@@ -68,7 +68,7 @@ you can check how it's worked in this video: https://youtu.be/sLBkrz3oRdQ
 
 🚩 Docker and docker-compose
 
-🚩 Postgres (file migrations)
+🚩 Postgres (file migrations, SQL queries)
 
 🚩 REST API principles (dependency injections and so on)
 
