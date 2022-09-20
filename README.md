@@ -9,4 +9,30 @@ Now I try to develop in the chosen direction: courses, books, articles, pet-proj
 My past work experience has helped me develop the skills to learn quickly, work under tight deadlines, work in a team, find and fix bugs and help to improve my level of English. My daily programming training opens up something new for me every day, whether it's experience with various tools, libraries, the basics of building applications or approaches to writing code. I hope I can apply my hard and soft skills while working in a team on real tasks.
 <br/>
 
+# 🎓 My pet-projects
+
+
+
+# 💼 Work experience
+## UniCredit Bank
+(one of the top 10 largest banks in Russia, part of international UniCredit Group)
+
+> July 2019 — Sep 2022 (3 years 3 months)
+Financial planning and controlling
+(not a programmer, but I think it's still worth pointing out)
+
+🚩 preparation of the budget, multi-year plan, forecast for the entire bank (on the highest level);
+🚩 interaction with a different divisions (including foreign colleagues from the Banking Group), organization of processes within the established deadlines;
+🚩 support of the budgeting system Hyperion, development and implementation of changes that speed up work and improve data quality.
+
+# 🎓 Alumni 
+
+
+# 💻 Additional Training
+
+
+
+# 🎓 Alumni 
+
+
 UniCredit Bank (one of the top 10 largest banks in Russia, part of international UniCredit Group)
