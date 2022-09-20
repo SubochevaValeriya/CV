@@ -58,7 +58,7 @@ Financial planning and controlling *(not a developer, but I think it's still wor
 
 # ⚙️ Technology Stack
 
-# Languages
+**Languages**
   Сonstantly use and try to improve my knowledge ❤️:
       ![Golang](https://img.shields.io/badge/-Golang-333333?style=flat-square&logo=golang&logoColor=3776AB)
   
