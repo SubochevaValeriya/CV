@@ -19,7 +19,7 @@ My past work experience has helped me develop the skills to learn quickly, work 
 
 **July 2019 — Sep 2022 (3 years 3 months)**
 
-Financial planning and controlling (not a programmer, but I think it's still worth pointing out)
+** Financial planning and controlling ** *(not a programmer, but I think it's still worth pointing out)*
 
 🚩 preparation of the budget, multi-year plan, forecast for the entire bank (on the highest level);
 
