@@ -102,4 +102,4 @@ Financial planning and controlling *(not a developer, but I think it's still wor
 
 # 📖 Hobbies 
 - Board Games
-- [LeetCode] (https://leetcode.com/SubochevaValeriya/)
+- [LeetCode](https://leetcode.com/SubochevaValeriya/)
