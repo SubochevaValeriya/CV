@@ -65,11 +65,11 @@ Decided to go for the Golang Backend Developer training courses to boost up my s
 
 # 📜 Certificates
 
-**[Stepik. Программирование на Golang](https://stepik.org/cert/1577568)**
+**[Stepik. Programming in Golang](https://stepik.org/cert/1577568)**
 
 > Issued July 2022 | No Expiration Date
 
-**[Stepik. Программирование на Python](https://stepik.org/cert/773220)**
+**[Stepik. Programming in Python](https://stepik.org/cert/773220)**
 
 > Issued September 2020 | No Expiration Date
 
