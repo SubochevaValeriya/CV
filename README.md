@@ -141,10 +141,10 @@ Financial planning and controlling *(not a developer, but I think it's still wor
 # 📝 Soft skills
 
 - Team player & ability to work alone: at my last job there was a big dependence on the work of the team, but at the same time, I often had to perform quite large tasks on my own;
-- Learnability: I quickly perceive information, and I can also find answers in the documentation myself
-- Emotional resilience: I have a lot of experience working under tight deadlines and long discussions with colleagues
-- My English is B2, I can read professional literature and watch tutorials 
-- Responsibility, accuracy, attention to details and great desire to expand the scope of my knowledge :)
+- Learnability: I quickly perceive information, and I can also find answers in the documentation myself;
+- Emotional resilience: I have a lot of experience working under tight deadlines and long discussions with colleagues;
+- My English is B2, I can read professional literature and watch tutorials;
+- Responsibility, accuracy, attention to details and great desire to expand the scope of my knowledge.
 
 # 📖 Hobbies 
 - Board Games
