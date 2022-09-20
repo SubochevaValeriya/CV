@@ -41,6 +41,11 @@ My past work experience has helped me develop the skills to learn quickly, work 
 
 
 # 🌱 My projects
+## [HTTP Service, which provides API for working with user balances](https://github.com/SubochevaValeriya/Microservice-Balance)
+## [REST-API HTTP-Server that gets orders data from channel and save it to the database with opportunity to receive order data by ID via a web page](https://github.com/SubochevaValeriya/Orders-Server)
+## [Board Game Telegram Bot written in Go and deployed using Vercel](https://github.com/SubochevaValeriya/Board-Games-Telegram-Bot)
+## [Financial University under the Government of the Russian Federation](http://www.fa.ru/)
+
 
 # 🎓 Alumni 
 ## [Financial University under the Government of the Russian Federation](http://www.fa.ru/)
@@ -94,3 +99,7 @@ Financial planning and controlling *(not a developer, but I think it's still wor
 - Emotional resilience: I have a lot of experience working under tight deadlines and long discussions with colleagues
 - My English is B2, I can read professional literature and watch tutorials 
 - Responsibility, accuracy, attention to details and great desire to expand the scope of my knowledge :)
+
+# 📖 Hobbies 
+- Board Games
+- LeetCode [![LeetCode user SubochevaValeriya](https://img.shields.io/badge/dynamic/json?style=flat-square&labelColor=black&color=%23ffa116&label=LeetCode&query=ranking&url=https%3A%2F%2Fleetcode-badge.vercel.app%2Fapi%2Fusers%2FSubochevaValeriya&logo=leetcode&logoColor=yellow)](https://leetcode.com/SubochevaValeriya/)
