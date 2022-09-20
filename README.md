@@ -47,9 +47,11 @@ Financial planning and controlling *(not a developer, but I think it's still wor
 ## [Financial University under the Government of the Russian Federation](http://www.fa.ru/)
 
 > September 2015 — June 2019 (4 years)
+
 Faculty of Financial Markets
 
 > September 2019 — June 2021 (2 years)
+
 Faculty of Information Technology and Big Data Analysis
 
 
