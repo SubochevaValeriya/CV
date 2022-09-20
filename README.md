@@ -41,11 +41,37 @@ My past work experience has helped me develop the skills to learn quickly, work 
 
 
 # 🌱 My projects
-## [HTTP Service, which provides API for working with user balances](https://github.com/SubochevaValeriya/Microservice-Balance)
-## [REST-API HTTP-Server that gets orders data from channel and save it to the database with opportunity to receive order data by ID via a web page](https://github.com/SubochevaValeriya/Orders-Server)
-## [Board Game Telegram Bot written in Go and deployed using Vercel](https://github.com/SubochevaValeriya/Board-Games-Telegram-Bot)
-## [Financial University under the Government of the Russian Federation](http://www.fa.ru/)
 
+(you can find more information by clicking on the links)
+
+## [HTTP Service, which provides API for working with user balances](https://github.com/SubochevaValeriya/Microservice-Balance)
+🚩 Postgres (CRUD, file migrations)
+🚩 REST API principles (dependency injections and so on)
+🚩 Gin-gonic framework
+🚩 Docker and docker-compose
+🚩 working with external API (exchange rates)
+
+## [REST-API HTTP-Server that gets orders data from channel and save it to the database with opportunity to receive order data by ID via a web page](https://github.com/SubochevaValeriya/Orders-Server)
+you can check how it's worked in this video: https://youtu.be/sLBkrz3oRdQ
+🚩 Nats-streaming (publishing and subscribing  to a channel)
+🚩 Redis (cache)
+🚩 HTML, CSS
+🚩 Docker and docker-compose
+🚩 Postgres (CRUD, file migrations)
+🚩 REST API principles (dependency injections and so on)
+🚩 Gin-gonic framework
+🚩 Docker and docker-compose (app, Redis, Postgres, Nats-streaming - all in one docker-compose)
+
+## [Board Game Telegram Bot written in Go and deployed using Vercel](https://github.com/SubochevaValeriya/Board-Games-Telegram-Bot)
+you can check by yourself: @BoardGameVBot
+🚩 working with external APIs
+🚩 building business logic
+🚩 web scraping
+🚩 deploying using Vercel serverless function
+
+## [Speed Math Multiplayer Game](https://github.com/SubochevaValeriya/Speed-Math)
+🚩 working with channels and concurrency (goroutines)
+🚩 net package
 
 # 🎓 Alumni 
 ## [Financial University under the Government of the Russian Federation](http://www.fa.ru/)
