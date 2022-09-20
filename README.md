@@ -71,13 +71,13 @@ Faculty of Financial Markets
 
 # 💻 Additional Training
 
-[GeekBrains](https://geekbrains.ru/)
+GeekBrains
 
 **Golang Developer** (training)
 
 > April 2022 — Until now
 
-Decided to go for the Golang Backend Developer training courses to boost up my skills and structure my knowledge without forgetting about self-education.
+Decided to go for the Golang Backend Developer training courses to boost up my skills and structure my knowledge in parallel with self-education.
 
 # 📜 Certificates
 
@@ -96,4 +96,3 @@ Decided to go for the Golang Backend Developer training courses to boost up my s
 - Emotional resilience: I have a lot of experience working under tight deadlines and long discussions with colleagues
 - My English is B2, I can read professional literature and watch tutorials 
 - Responsibility, accuracy, attention to details and great desire to expand the scope of my knowledge :)
-
