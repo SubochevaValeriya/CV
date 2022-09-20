@@ -15,9 +15,9 @@ My past work experience has helped me develop the skills to learn quickly, work 
 
 # 💼 Work experience
 ## UniCredit Bank
-(one of the top 10 largest banks in Russia, part of international UniCredit Group)
+> (one of the top 10 largest banks in Russia, part of international UniCredit Group)
 
-> July 2019 — Sep 2022 (3 years 3 months)
+**July 2019 — Sep 2022 (3 years 3 months)**
 Financial planning and controlling
 (not a programmer, but I think it's still worth pointing out)
 
