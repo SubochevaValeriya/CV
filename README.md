@@ -40,7 +40,7 @@ My past work experience has helped me develop the skills to learn quickly, work 
       ![Mac](https://img.shields.io/badge/-Mac-333333?style=flat&logo=Mac)
 
 
-# 🎓 My pet-projects
+# 👨‍💻 My pet-projects
 
 # 🎓 Alumni 
 ## [Financial University under the Government of the Russian Federation](http://www.fa.ru/)
