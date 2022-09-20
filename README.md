@@ -30,6 +30,8 @@ Financial planning and controlling *(not a programmer, but I think it's still wo
 # 🎓 Alumni 
 
 
+
+
 # 💻 Additional Training
 
 
