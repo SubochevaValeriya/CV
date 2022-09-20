@@ -13,7 +13,7 @@ My past working experience has helped me develop the skills to learn quickly, wo
 
 **Languages:**
 
-  Сonstantly use and try to improve my knowledge ❤️:
+  Сonstantly use and try to improve my knowledge:
       ![Golang](https://img.shields.io/badge/-Golang-333333?style=flat-square&logo=golang&logoColor=3776AB)
   
   Know some basics (took small courses and taught at the university):
