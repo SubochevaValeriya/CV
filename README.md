@@ -1,4 +1,4 @@
-# 😃 About me
+# 💬 About me
 
 <!-- https://raw.githubusercontent.com/progfay/shields-with-icon/master/README.md -->
 
