@@ -44,6 +44,22 @@ My past working experience has helped me develop the skills to learn quickly, wo
 
 (you can find more information by clicking on the links)
 
+## [REST API service that receives information about the weather in the cities added to the subscription](https://github.com/SubochevaValeriya/Weather)
+
+🚩 Postgres (CRUD, file migrations, SQL queries, tests)
+
+🚩 REST API principles (dependency injections and so on)
+
+🚩 Gin-gonic framework
+
+🚩 Docker and docker-compose
+
+🚩 working with external API (openWeatherMap)
+
+🚩 working with channels and concurrency (goroutines)
+
+🚩 unit testing
+
 ## [HTTP Service, which provides API for working with user balances](https://github.com/SubochevaValeriya/Microservice-Balance)
 
 🚩 Postgres (CRUD, file migrations, SQL queries)
