@@ -26,6 +26,7 @@ My past working experience has helped me develop the skills to learn quickly, wo
       ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github&logoColor=FFFFFF)
       ![Docker](https://img.shields.io/badge/-Docker-333333?style=flat&logo=docker&logoColor=2496ED)
       ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-333333?style=flat&logo=PostgreSQL&logoColor=FFFFFF)
+      ![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=MongoDB&logoColor=FFFFFF)
       ![Redis](https://img.shields.io/badge/-Redis-333333?style=flat&logo=Redis)
       ![Swagger](https://img.shields.io/badge/-Swagger-333333?style=flat&logo=Swagger&logoColor=F80000)
       ![Vercel](https://img.shields.io/badge/-Vercel-333333?style=flat&logo=Swagger&logoColor=F80000)
@@ -43,6 +44,18 @@ My past working experience has helped me develop the skills to learn quickly, wo
 # 🌱 My projects
 
 (you can find more information by clicking on the links)
+
+## [URL Shortener](https://github.com/SubochevaValeriya/Weather)
+
+🚩 MongoDB
+
+🚩 REST API principles (dependency injections and so on)
+
+🚩 chi router
+
+🚩 Docker and docker-compose
+
+🚩 unit testing
 
 ## [REST API service that receives information about the weather in the cities added to the subscription](https://github.com/SubochevaValeriya/Weather)
 
