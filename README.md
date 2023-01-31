@@ -157,7 +157,7 @@ Decided to go for the Golang Backend Developer training courses to boost up my s
 ## UniCredit Bank
 > (one of the top 10 largest banks in Russia, part of international UniCredit Group)
 
-**July 2019 — Sep 2022 (3 years 3 months)**
+**July 2019 — Dec 2022 (3 years 6 months)**
 
 Financial planning and controlling *(not a developer, but I think it's still worth pointing out)*
 
