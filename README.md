@@ -44,6 +44,15 @@ My past working experience has helped me develop the skills to learn quickly, wo
 # 🌱 My projects
 
 (you can find more information by clicking on the links)
+## [Youtube Thumbnails Downloader]([https://github.com/SubochevaValeriya/Weather](https://github.com/SubochevaValeriya/YouTube-Thumbnails-Downloader-gRPC-CLI-Tool)
+
+🚩 MongoDB
+
+🚩 gRPC
+
+🚩 Docker and docker-compose
+
+🚩 unit testing
 
 ## [URL Shortener](https://github.com/SubochevaValeriya/Weather)
 
