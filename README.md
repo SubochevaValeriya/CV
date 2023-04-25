@@ -54,7 +54,7 @@ My past working experience has helped me develop the skills to learn quickly, wo
 
 🚩 unit testing
 
-## [URL Shortener](https://github.com/SubochevaValeriya/Weather)
+## [URL Shortener](https://github.com/SubochevaValeriya/URL-Shortener)
 
 🚩 MongoDB
 
